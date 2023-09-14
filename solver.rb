@@ -14,9 +14,9 @@ class Solver
     result
   end
 
-  def reverse(word)
-    word.reverse
-  end
+  # def reverse(word)
+  #   word.reverse
+  # end
 
   def fizzbuzz(number)
     return 'fizzbuzz' if (number % 3).zero? && (number % 5).zero?
