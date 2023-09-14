@@ -51,7 +51,6 @@ After you're finished please remove all the comments and instructions!
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
@@ -64,6 +63,14 @@ After you're finished please remove all the comments and instructions!
 ### Tech Stack <a name="tech-stack"></a>
 
 - **Ruby**
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+- **[Unit Tests for factorial, reverse and fizzbuzz methods]**
+- **[Solver class]**
+- **[factorial, reverse and fizzbuzz methods]**
 
 ## Getting Started
 
@@ -100,15 +107,6 @@ ruby
 ```
 rspec 
 ```
-
-<!-- Features -->
-
-### Key Features <a name="key-features"></a>
-
-- **[Unit Tests for factorial, reverse and fizzbuzz methods]**
-- **[Solver class]**
-- **[factorial, reverse and fizzbuzz methods]**
-
 
 <!-- AUTHORS -->
 
