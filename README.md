@@ -48,6 +48,7 @@ After you're finished please remove all the comments and instructions!
   - [Usage](#usage)
   - [Run tests](#run-tests)
 - [👥 Authors](#authors)
+- 🔭 Future Features(#future features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
@@ -126,6 +127,11 @@ rspec
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## 🔭 Future Features <a name="future features"></a>
+  - Add design for User Interface
+  - Add tests
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 
