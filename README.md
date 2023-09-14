@@ -119,6 +119,13 @@ rspec
 - Twitter: [@Twitter](https://twitter.com/home)
 - LinkedIn: [@LinkedIn](https://www.linkedin.com/in/diana-beki/)
 
+
+👤 **Uwimbabazi Dorcas**
+
+- GitHub: [@Dorcas126](https://github.com/Dorcas126)
+- Twitter: [@Dorcasuw](https://twitter.com/Dorcasuwi)
+- LinkedIn: [Uwimbabazi Dorcas](https://www.linkedin.com/in/uwimbabazi-dorcas-956a5a226/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
